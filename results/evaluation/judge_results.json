@@ -1,0 +1,3002 @@
+[
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-001"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 2,
+      "grounding": 4,
+      "policy_compliance": 1,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 2.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=2/5, Grounding=4/5, Policy=1/5, Safety=5/5, Tone=5/5. Composite Score: 2.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-002"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.65,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.65/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-003"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 2,
+      "grounding": 4,
+      "policy_compliance": 1,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 2.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=2/5, Grounding=4/5, Policy=1/5, Safety=5/5, Tone=5/5. Composite Score: 2.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-004"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-005"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-006"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 2,
+      "grounding": 4,
+      "policy_compliance": 1,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 2.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=2/5, Grounding=4/5, Policy=1/5, Safety=5/5, Tone=5/5. Composite Score: 2.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-007"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 2,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=2/5, Safety=5/5, Tone=5/5. Composite Score: 4.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-008"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-009"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 3,
+      "grounding": 3,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.9,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=3/5, Correctness=3/5, Grounding=3/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-010"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-011"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.9,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-012"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-013"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 4,
+      "tone": 5
+    },
+    "composite_score": 3.7,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=4/5, Tone=5/5. Composite Score: 3.70/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-014"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-015"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.3,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.30/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-016"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-017"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-018"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-019"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 2,
+      "grounding": 5,
+      "policy_compliance": 1,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.2,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=3/5, Correctness=2/5, Grounding=5/5, Policy=1/5, Safety=5/5, Tone=5/5. Composite Score: 3.20/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-020"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.9,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-021"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 4,
+      "tone": 5
+    },
+    "composite_score": 3.9,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=4/5, Tone=5/5. Composite Score: 3.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-022"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-023"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-024"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-025"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.3,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.30/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-026"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-027"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-028"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-029"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 2,
+      "grounding": 4,
+      "policy_compliance": 1,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 2.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=2/5, Grounding=4/5, Policy=1/5, Safety=5/5, Tone=5/5. Composite Score: 2.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-030"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.8,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.80/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-031"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.65,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.65/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-032"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 4,
+      "tone": 5
+    },
+    "composite_score": 4.1,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=4/5, Tone=5/5. Composite Score: 4.10/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-033"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-034"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-035"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-036"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.65,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.65/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-037"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 3,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=3/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-038"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.25,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.25/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-039"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.9,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-040"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 3,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.7,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=3/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.70/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-041"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-042"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-043"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-044"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-045"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-046"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-047"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-048"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-049"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-050"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-051"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-052"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.65,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.65/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-053"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-054"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-055"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-056"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.9,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-057"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-058"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-059"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-060"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-061"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.8,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.80/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-062"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.45,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.45/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-063"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 3,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.7,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=3/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.70/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-064"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-065"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-066"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.65,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.65/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-067"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-068"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-069"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 3,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.7,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=3/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.70/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-070"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.3,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.30/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-071"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-072"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-073"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 4,
+      "tone": 5
+    },
+    "composite_score": 3.9,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=4/5, Tone=5/5. Composite Score: 3.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-074"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.9,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-075"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-076"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-077"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 4,
+      "tone": 5
+    },
+    "composite_score": 4.1,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=4/5, Tone=5/5. Composite Score: 4.10/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-078"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-079"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.75,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.75/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-080"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-081"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.5,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.50/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-082"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-083"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-084"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-085"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.45,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.45/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-086"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-087"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-088"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.65,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.65/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-089"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 3,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.7,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=3/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.70/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-090"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-091"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-092"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.45,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.45/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-093"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-094"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-095"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-096"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-097"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-098"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.65,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.65/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-099"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-100"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-101"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-102"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.45,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.45/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-103"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-104"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 4,
+      "tone": 5
+    },
+    "composite_score": 4.3,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=4/5, Tone=5/5. Composite Score: 4.30/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-105"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.8,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.80/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-106"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-107"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-108"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.75,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.75/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-109"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-110"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 3,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.7,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=3/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.70/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-111"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-112"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-113"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-114"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.9,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-115"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-116"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.3,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.30/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-117"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-118"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-119"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-120"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.8,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.80/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-121"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-122"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-123"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-124"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.9,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-125"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.65,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.65/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-126"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-127"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-128"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-129"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.8,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.80/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-130"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-131"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-132"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-133"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-134"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.75,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.75/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-135"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.3,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.30/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-136"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-137"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 4,
+      "tone": 5
+    },
+    "composite_score": 4.1,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=4/5, Tone=5/5. Composite Score: 4.10/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-138"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-139"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.65,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.65/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-140"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.2,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.20/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-141"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-142"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-143"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-144"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-145"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-146"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-147"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-148"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-149"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-150"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-151"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-152"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-153"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.65,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.65/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-154"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-155"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-156"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-157"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-158"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 4,
+      "tone": 5
+    },
+    "composite_score": 4.1,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=4/5, Tone=5/5. Composite Score: 4.10/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-159"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-160"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-161"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 3,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.7,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=3/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.70/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-162"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-163"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.9,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-164"
+  },
+  {
+    "scores": {
+      "relevance": 4,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.8,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=4/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.80/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-165"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 3,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.7,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=3/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.70/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-166"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-167"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-168"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-169"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.45,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.45/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-170"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-171"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-172"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-173"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-174"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.9,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-175"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-176"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.45,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.45/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-177"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.75,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.75/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-178"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-179"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-180"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-181"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-182"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 2,
+      "grounding": 5,
+      "policy_compliance": 1,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.2,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=3/5, Correctness=2/5, Grounding=5/5, Policy=1/5, Safety=5/5, Tone=5/5. Composite Score: 3.20/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-183"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-184"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-185"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-186"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.45,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.45/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-187"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-188"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.85,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-189"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 3,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.7,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=3/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.70/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-190"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-191"
+  },
+  {
+    "scores": {
+      "relevance": 3,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=3/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-192"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-193"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-194"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-195"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 3,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.6,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=3/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.60/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-196"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 3,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 3.85,
+    "passed_quality_bar": false,
+    "rationale": "Relevance=2/5, Correctness=3/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 3.85/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-197"
+  },
+  {
+    "scores": {
+      "relevance": 2,
+      "correctness": 4,
+      "grounding": 4,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 4.05,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=2/5, Correctness=4/5, Grounding=4/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 4.05/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-198"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 5
+    },
+    "composite_score": 5.0,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=5/5. Composite Score: 5.00/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-199"
+  },
+  {
+    "scores": {
+      "relevance": 5,
+      "correctness": 5,
+      "grounding": 5,
+      "policy_compliance": 5,
+      "safety": 5,
+      "tone": 4
+    },
+    "composite_score": 4.9,
+    "passed_quality_bar": true,
+    "rationale": "Relevance=5/5, Correctness=5/5, Grounding=5/5, Policy=5/5, Safety=5/5, Tone=4/5. Composite Score: 4.90/5.00.",
+    "evaluator_mode": "offline_deterministic",
+    "example_id": "SPOT-GOLD-200"
+  }
+]

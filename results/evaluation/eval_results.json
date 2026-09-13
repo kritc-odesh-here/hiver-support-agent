@@ -1,0 +1,295 @@
+{
+  "headline_result": {
+    "metric_name": "Full Pipeline Accuracy (All-3: Intent + Action + Escalation simultaneously correct)",
+    "value": "91.00%",
+    "correct_count": 182,
+    "total_denominator": 200,
+    "dataset": "200 Human-Verified Golden Evaluation Records (evaluation/golden_set_verified.csv)"
+  },
+  "intent_metrics": {
+    "accuracy": 0.94,
+    "macro_f1": 0.9177,
+    "correct": 188,
+    "total": 200,
+    "per_class": {
+      "account_access_and_login": {
+        "precision": 0.92,
+        "recall": 1.0,
+        "f1": 0.9583,
+        "support": 23
+      },
+      "ambiguous_vague": {
+        "precision": 0.7778,
+        "recall": 1.0,
+        "f1": 0.875,
+        "support": 14
+      },
+      "app_crash_and_performance": {
+        "precision": 1.0,
+        "recall": 0.8947,
+        "f1": 0.9444,
+        "support": 19
+      },
+      "multi_intent": {
+        "precision": 0.7143,
+        "recall": 1.0,
+        "f1": 0.8333,
+        "support": 5
+      },
+      "music_catalog_and_content": {
+        "precision": 1.0,
+        "recall": 0.8333,
+        "f1": 0.9091,
+        "support": 24
+      },
+      "non_support_or_chatter": {
+        "precision": 1.0,
+        "recall": 0.625,
+        "f1": 0.7692,
+        "support": 8
+      },
+      "offline_listening_and_downloads": {
+        "precision": 1.0,
+        "recall": 0.9474,
+        "f1": 0.973,
+        "support": 19
+      },
+      "playback_and_audio": {
+        "precision": 0.96,
+        "recall": 0.96,
+        "f1": 0.96,
+        "support": 25
+      },
+      "playlist_library_and_curation": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 26
+      },
+      "service_outage_and_status": {
+        "precision": 0.8333,
+        "recall": 1.0,
+        "f1": 0.9091,
+        "support": 10
+      },
+      "subscription_and_billing": {
+        "precision": 0.963,
+        "recall": 0.963,
+        "f1": 0.963,
+        "support": 27
+      }
+    }
+  },
+  "action_metrics": {
+    "accuracy": 0.93,
+    "macro_f1": 0.8788,
+    "correct": 186,
+    "total": 200,
+    "per_class": {
+      "CLARIFICATION_PROMPT": {
+        "precision": 0.7778,
+        "recall": 1.0,
+        "f1": 0.875,
+        "support": 14
+      },
+      "DIRECT_TROUBLESHOOT": {
+        "precision": 0.9438,
+        "recall": 0.9882,
+        "f1": 0.9655,
+        "support": 85
+      },
+      "ESCALATE_TO_HUMAN_DM": {
+        "precision": 0.9091,
+        "recall": 0.625,
+        "f1": 0.7407,
+        "support": 16
+      },
+      "INFO_PROVISION": {
+        "precision": 0.9512,
+        "recall": 0.9176,
+        "f1": 0.9341,
+        "support": 85
+      }
+    }
+  },
+  "escalation_metrics": {
+    "accuracy": 0.965,
+    "macro_f1": 0.694,
+    "correct": 193,
+    "total": 200,
+    "per_class": {
+      "BILLING_RECEIPT_OR_PAYMENT_VERIFICATION": {
+        "precision": 0.75,
+        "recall": 0.5,
+        "f1": 0.6,
+        "support": 6
+      },
+      "N/A": {
+        "precision": 0.9683,
+        "recall": 0.9946,
+        "f1": 0.9812,
+        "support": 184
+      },
+      "PERSISTENT_BUG_INTERNAL_LOGS": {
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1": 0.8889,
+        "support": 5
+      },
+      "REQUIRES_ACCOUNT_BACKEND_ACCESS": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 3
+      },
+      "STUDENT_OR_FAMILY_VERIFICATION_MANUAL_CHECK": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 2
+      }
+    }
+  },
+  "llm_judge_aggregate": {
+    "mean_composite_score": 4.48,
+    "quality_pass_rate_pct": 84.0,
+    "mean_relevance": 3.84,
+    "mean_correctness": 4.23,
+    "mean_grounding": 4.41,
+    "mean_policy_compliance": 4.87,
+    "mean_safety": 4.96,
+    "mean_tone": 4.89
+  },
+  "human_judge_agreement": {
+    "sample_size": 50,
+    "exact_score_agreement_pct": 70.0,
+    "within_1_point_agreement_pct": 98.0,
+    "mean_absolute_error": 0.356,
+    "pearson_correlation": 0.7527,
+    "binary_quality_agreement_pct": 82.0,
+    "cohens_kappa": 0.581
+  },
+  "failure_count": 18,
+  "top_failures": [
+    {
+      "example_id": "SPOT-GOLD-002",
+      "customer_message": "@SpotifyCares why does my Spotify stop playing while offline? It is songs I've downloaded and haven't had the issue until yesterday.",
+      "conversation_context": null,
+      "true_intent": "offline_listening_and_downloads",
+      "pred_intent": "multi_intent",
+      "true_action": "ESCALATE_TO_HUMAN_DM",
+      "pred_action": "DIRECT_TROUBLESHOOT",
+      "true_escalation": "PERSISTENT_BUG_INTERNAL_LOGS",
+      "pred_escalation": "N/A",
+      "generated_response": "Hey! Are you getting any error messages whenever you try signing up using PayPal? If so, a screenshot of it will be very helpful /AY"
+    },
+    {
+      "example_id": "SPOT-GOLD-004",
+      "customer_message": "@115888 hey there! I purchased a year subscription as a gift to be delivered on 11/18 and the email never was received. Could I please have it resent?",
+      "conversation_context": null,
+      "true_intent": "multi_intent",
+      "pred_intent": "multi_intent",
+      "true_action": "ESCALATE_TO_HUMAN_DM",
+      "pred_action": "DIRECT_TROUBLESHOOT",
+      "true_escalation": "BILLING_RECEIPT_OR_PAYMENT_VERIFICATION",
+      "pred_escalation": "N/A",
+      "generated_response": "Hey! 2: Thanks for sharing your thoughts, we'll pass it on to the relevant folks /AY"
+    },
+    {
+      "example_id": "SPOT-GOLD-007",
+      "customer_message": "@SpotifyCares  i recently got premium but then my plan ended a week after I had set my plan. Please contact me asap.",
+      "conversation_context": null,
+      "true_intent": "subscription_and_billing",
+      "pred_intent": "subscription_and_billing",
+      "true_action": "ESCALATE_TO_HUMAN_DM",
+      "pred_action": "INFO_PROVISION",
+      "true_escalation": "BILLING_RECEIPT_OR_PAYMENT_VERIFICATION",
+      "pred_escalation": "N/A",
+      "generated_response": "Hey, the cavalry's here! Are you getting any error messages on the app right now? A screenshot of what's happening would come in handy /AY"
+    },
+    {
+      "example_id": "SPOT-GOLD-008",
+      "customer_message": "@SpotifyCares just signed up for premium family plan my daughter cannot accept invite. We are both being treated as the plan admin.",
+      "conversation_context": null,
+      "true_intent": "subscription_and_billing",
+      "pred_intent": "subscription_and_billing",
+      "true_action": "INFO_PROVISION",
+      "pred_action": "ESCALATE_TO_HUMAN_DM",
+      "true_escalation": "N/A",
+      "pred_escalation": "BILLING_RECEIPT_OR_PAYMENT_VERIFICATION",
+      "generated_response": "Hey! We'd be happy to take a closer look at your billing and subscription details. Could you send us a DM with your account's email address or username? We'll check backstage https://t.co/ldFdZRiNAt /AY"
+    },
+    {
+      "example_id": "SPOT-GOLD-009",
+      "customer_message": "@SpotifyCares listen spotify ima need y’all to make a way i can edit and tap multiple songs at a time and add them to a playlist instead of having to add them individually plz help me",
+      "conversation_context": null,
+      "true_intent": "playlist_library_and_curation",
+      "pred_intent": "playlist_library_and_curation",
+      "true_action": "INFO_PROVISION",
+      "pred_action": "DIRECT_TROUBLESHOOT",
+      "true_escalation": "N/A",
+      "pred_escalation": "N/A",
+      "generated_response": "Hey there! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon /AY"
+    },
+    {
+      "example_id": "SPOT-GOLD-010",
+      "customer_message": "@SpotifyCares I can't listen to any Daft Punk song on either spotify web, android app or desktop, any solution?",
+      "conversation_context": null,
+      "true_intent": "music_catalog_and_content",
+      "pred_intent": "ambiguous_vague",
+      "true_action": "INFO_PROVISION",
+      "pred_action": "CLARIFICATION_PROMPT",
+      "true_escalation": "N/A",
+      "pred_escalation": "N/A",
+      "generated_response": "Hey! Help's here. Could you let us know what device, operating system, and Spotify version you're running, and what's happening exactly? We'll see what we can suggest /AY"
+    },
+    {
+      "example_id": "SPOT-GOLD-014",
+      "customer_message": "@SpotifyCares I've restarted it and.logged out it's still the same:(",
+      "conversation_context": "Prior Turn [SpotifyCares (2766466)]: @773664 Got it. Could you also let us know the Android version you're running? We'll check it out /RC",
+      "true_intent": "app_crash_and_performance",
+      "pred_intent": "account_access_and_login",
+      "true_action": "DIRECT_TROUBLESHOOT",
+      "pred_action": "INFO_PROVISION",
+      "true_escalation": "N/A",
+      "pred_escalation": "N/A",
+      "generated_response": "Hi! We've replied to your DM. Let's continue chatting there /AY"
+    },
+    {
+      "example_id": "SPOT-GOLD-016",
+      "customer_message": "@SpotifyCares just found out there's an Upside-Down version of my spotify... PLEASE NEVER GET RID OF IT MY INNER ST FANGIRL IS FREAKING OUT!",
+      "conversation_context": null,
+      "true_intent": "music_catalog_and_content",
+      "pred_intent": "service_outage_and_status",
+      "true_action": "INFO_PROVISION",
+      "pred_action": "INFO_PROVISION",
+      "true_escalation": "N/A",
+      "pred_escalation": "N/A",
+      "generated_response": "We had a little hiccup backstage, but everything should be running smoothly now! You can also check live updates on @SpotifyStatus. Let us know if you're still having trouble /AY"
+    },
+    {
+      "example_id": "SPOT-GOLD-017",
+      "customer_message": "@SpotifyCares I’ll DM you, I don’t want to offend people who love this wretched song 😒",
+      "conversation_context": "Prior Turn [SpotifyCares (2004784)]: @592840 Hi Gabrielle! Can you let us know the device, OS, and Spotify version you're using? Also, what is the name of the song you upvoted? /MT",
+      "true_intent": "music_catalog_and_content",
+      "pred_intent": "ambiguous_vague",
+      "true_action": "INFO_PROVISION",
+      "pred_action": "CLARIFICATION_PROMPT",
+      "true_escalation": "N/A",
+      "pred_escalation": "N/A",
+      "generated_response": "Hey! Help's here. Could you let us know what device, operating system, and Spotify version you're running, and what's happening exactly? We'll see what we can suggest /AY"
+    },
+    {
+      "example_id": "SPOT-GOLD-019",
+      "customer_message": "@SpotifyCares How y’all gon let me pay 10 a month and delete my fav song https://t.co/R97xuY7Ekn",
+      "conversation_context": "Prior Turn [SpotifyCares (1909603)]: @568871 Hey there! Can you let us know what's happening exactly? We'll see what we can suggest /PL",
+      "true_intent": "music_catalog_and_content",
+      "pred_intent": "ambiguous_vague",
+      "true_action": "INFO_PROVISION",
+      "pred_action": "CLARIFICATION_PROMPT",
+      "true_escalation": "N/A",
+      "pred_escalation": "N/A",
+      "generated_response": "Hey! Help's here. Could you let us know what device, operating system, and Spotify version you're running, and what's happening exactly? We'll see what we can suggest /AY"
+    }
+  ]
+}

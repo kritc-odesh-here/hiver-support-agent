@@ -1,0 +1,9 @@
+{
+  "sample_size": 50,
+  "exact_score_agreement_pct": 70.0,
+  "within_1_point_agreement_pct": 98.0,
+  "mean_absolute_error": 0.356,
+  "pearson_correlation": 0.7527,
+  "binary_quality_agreement_pct": 82.0,
+  "cohens_kappa": 0.581
+}

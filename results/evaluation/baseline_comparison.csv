@@ -1,0 +1,4 @@
+Model,Intent_Accuracy,Intent_Macro_F1,Action_Accuracy,Escalation_Accuracy,All_3_Pipeline_Accuracy
+Baseline 1: Trivial (Majority Class),7.00%,0.0119,7.00%,92.00%,7.00%
+Baseline 2: Simple (TF-IDF Similarity),38.50%,0.3538,59.00%,92.00%,34.00%
+SpotifySupportAgent (Our Pipeline),94.00%,0.9177,93.00%,96.50%,91.00%
