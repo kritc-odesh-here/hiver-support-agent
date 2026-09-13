@@ -224,7 +224,7 @@ By reconstructing conversation threads via parent pointers (`in_response_to_twee
 **Runner-Up Candidates**: **`Delta`** and **`Tesco`**
 
 ### Why `SpotifyCares` is the Best Selection:
-1. **Sufficient Volume & High Coherence**: 43,265 outbound brand tweets across 28,280 conversation threads with 91,889 total tweets.
+1. **Sufficient Volume & High Coherence**: 43,265 outbound brand tweets across 28,280 conversation threads with 91,808 total tweets (43,265 outbound + 48,543 inbound).
 2. **Substantive Technical Troubleshooting**: Unlike Apple or telecoms that immediately request private DMs, Spotify provides actionable troubleshooting in public tweets (e.g., restart sequences, cache clearing, clean app reinstallation, offline syncing, Bluetooth troubleshooting, OS/app compatibility checks).
 3. **Manageable Intent Taxonomy**: Software/streaming intents are clean, distinct, and highly structured:
    - *Technical / Playback Issues* (skipping songs, bluetooth, audio quality, offline sync)
@@ -262,18 +262,18 @@ evaluation/
 
 ### Empirical Intent Distribution (43,092 Customer Messages)
 
-| Intent / Class | Class Type | Corpus Count | Share % | Default Action | Escalation Policy |
+| Intent / Class | Category Type | Corpus Count | Share % | Default Action | Escalation Policy |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| `ambiguous_vague` | Edge Class | 23,176 | 53.78% | `CLARIFICATION_PROMPT` | Auto-handle (request device, OS, error behavior) |
+| `ambiguous_vague` | Edge/Special Class | 23,176 | 53.78% | `CLARIFICATION_PROMPT` | Auto-handle (request device, OS, error behavior) |
 | `subscription_and_billing` | Support Intent | 5,210 | 12.09% | `INFO_PROVISION` | Escalate if checking private receipts/cards/refunds |
-| `multi_intent` | Edge Class | 3,061 | 7.10% | `DIRECT_TROUBLESHOOT` | Escalate if any sub-intent requires private account lookup |
+| `multi_intent` | Edge/Special Class | 3,061 | 7.10% | `DIRECT_TROUBLESHOOT` | Escalate if any sub-intent requires private account lookup |
 | `music_catalog_and_content` | Support Intent | 3,030 | 7.03% | `INFO_PROVISION` | Auto-handle (explain licensing rights & explicit filter) |
 | `playlist_library_and_curation`| Support Intent | 2,438 | 5.66% | `DIRECT_TROUBLESHOOT` | Auto-handle (shuffle cache, playlist recovery tool) |
 | `account_access_and_login` | Support Intent | 2,106 | 4.89% | `INFO_PROVISION` | Escalate if reset email fails or account compromised |
-| `non_support_or_chatter` | Edge Class | 1,245 | 2.89% | `INFO_PROVISION` | Auto-handle (polite closing acknowledgment) |
+| `non_support_or_chatter` | Edge/Special Class | 1,245 | 2.89% | `INFO_PROVISION` | Auto-handle (polite closing acknowledgment) |
 | `playback_and_audio` | Support Intent | 1,044 | 2.42% | `DIRECT_TROUBLESHOOT` | Auto-handle (Bluetooth distance, hard device restart) |
 | `offline_listening_and_downloads`| Support Intent | 832 | 1.93% | `DIRECT_TROUBLESHOOT` | Auto-handle (offline toggle, storage limit verification) |
-| `unclassifiable_or_foreign`| Edge Class | 459 | 1.07% | `INFO_PROVISION` | Auto-handle (refer non-English queries to email team) |
+| `unclassifiable_or_foreign`| Edge/Special Class | 459 | 1.07% | `INFO_PROVISION` | Auto-handle (refer non-English queries to email team) |
 | `service_outage_and_status` | Support Intent | 284 | 0.66% | `INFO_PROVISION` | Auto-handle (confirm platform status / ongoing incident) |
 | `app_crash_and_performance` | Support Intent | 207 | 0.48% | `DIRECT_TROUBLESHOOT` | Auto-handle (clean reinstall sequence, cache clearing) |
 
