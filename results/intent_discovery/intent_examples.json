@@ -1,0 +1,698 @@
+{
+  "multi_intent": [
+    {
+      "customer_tweet_id": 2627954,
+      "conversation_id": 2627954,
+      "customer_message": "@SpotifyCares in your web UI can you add some indication of whether the song is saved or not, like you have on desktop app and how you used to have in oil Web UI. Because I open playlist and wanna see the songs I'd saved previously. Ideally you could bring the old UI back",
+      "context": "None (thread root)",
+      "spotify_response": "@187918 Hey Alan! We appreciate your feedback on this, and we'll be sure to let our devs know this is something you'd like to see. Let us know if we can help with anything else /LM"
+    },
+    {
+      "customer_tweet_id": 559953,
+      "conversation_id": 559953,
+      "customer_message": "@SpotifyCares I have premium and am trying to d/load an album whilst WiFi.....won\u2019t let me follow or d/l, keeps switching toggle off?",
+      "context": "None (thread root)",
+      "spotify_response": "@250942 Hi Jessica, help's here! Can you DM us your account's email address or username? Also, let us know your device's make/model, operating system, and Spotify version. We'll see what we can suggest /GT https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 128170,
+      "conversation_id": 110065,
+      "customer_message": "@SpotifyCares i have PHP 25 on paypal pls stop asking for my credit card info even tho i dont have one",
+      "context": "Prior Turn [SpotifyCares (128169)]: @144794 Hey there! PayPal should work when you're signing up for the 3 months for 9.00 PHP offer. Hope this helps /AR",
+      "spotify_response": "@144794 Are you getting any error messages whenever you try signing up using PayPal? If so, a screenshot of it will be very helpful /MA"
+    },
+    {
+      "customer_tweet_id": 2963367,
+      "conversation_id": 2963367,
+      "customer_message": "@SpotifyCares why does the spotify app on roku not have all my saved albums, artists, playlists, and recently played tracks?I want to use it on my roku but it\u2019s not worth it when I have to search for every song I want to listen to instead of just clicking on my playlist.",
+      "context": "None (thread root)",
+      "spotify_response": "@817688 Hey Miranda, help's here! We have some info about the Spotify app on Roku here: https://t.co/1nqkZkEHBv. Give us a shout if there's anything else /AL"
+    },
+    {
+      "customer_tweet_id": 1323038,
+      "conversation_id": 1323038,
+      "customer_message": "Why doesn\u2019t @115888 have an alarm feature where I can wake up to my favorite playlist/song?",
+      "context": "None (thread root)",
+      "spotify_response": "@428758 Hey Nathan. A sleep timer is a great idea! Help make it happen by adding support here: https://t.co/pMmX7wXq24 /K"
+    },
+    {
+      "customer_tweet_id": 1173243,
+      "conversation_id": 1173243,
+      "customer_message": "Why the fuck would there be a song in full on Spanish in my Discover Weekly playlist @115888?! \ud83d\ude02",
+      "context": "None (thread root)",
+      "spotify_response": "@395954 2: Thanks for sharing your thoughts, we'll pass it on to the relevant folks /SY"
+    },
+    {
+      "customer_tweet_id": 1078970,
+      "conversation_id": 1078970,
+      "customer_message": "@SpotifyCares Hey folks! Why are different songs sneaking into my Playlist when I'm playing on mobile? Happened on Album AND Playlist....",
+      "context": "None (thread root)",
+      "spotify_response": "@374521 Hey James! You must be getting Suggested Tracks, and they're part of our Free service on mobile. More info here: https://t.co/Uv9kyGcsCc /SY"
+    },
+    {
+      "customer_tweet_id": 656506,
+      "conversation_id": 656506,
+      "customer_message": "@115888 Just signed up for Premium, I know about time... Anyway why is there not a way to sort playlist in Alphabetical Order, not speaking about sorting songs in a playlist but the actual playlist listed on the left hand side?  Is there a way to do this?",
+      "context": "None (thread root)",
+      "spotify_response": "@276203 Hey Jonathan! This isn't possible at the moment, but we have some info at https://t.co/zYrg6hSPsY that might help /CP"
+    }
+  ],
+  "ambiguous_vague": [
+    {
+      "customer_tweet_id": 500984,
+      "conversation_id": 500972,
+      "customer_message": "@117153 Getting \u2018an error occurred\u2019 on mine!",
+      "context": "Prior Turn [Customer (500972)]: Something\u2019s not quite right, and we\u2019re looking into it. Thanks for your reports!",
+      "spotify_response": "@807997 Hey, thanks for the report! We had a little hiccup earlier, but everything should be running just fine now /JS"
+    },
+    {
+      "customer_tweet_id": 637649,
+      "conversation_id": 637649,
+      "customer_message": ".@115888 WHERE IS THE 2004 WORLDWIDE HIT \u201cLEAVE (GET OUT)\u201d BY JOJO???????",
+      "context": "None (thread root)",
+      "spotify_response": "@271191 Hi Sam! We\u2019d love to have all of Jojo's stuff available, but we have some info about content here: https://t.co/MEjmIRL2eB. Let us know if you need more help /HR"
+    },
+    {
+      "customer_tweet_id": 160527,
+      "conversation_id": 160530,
+      "customer_message": "@SpotifyCares Sure. Both my macbook pro and mac desktop experience the same issue with that.   High Sierra 10.13.1",
+      "context": "Prior Turn [SpotifyCares (160528)]: @152980 Hi Ryan! That's not cool. Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /JI",
+      "spotify_response": "@152980 Thanks for that info. Does logging out, restarting your device, and logging back into Spotify help? Keep us posted /JI"
+    },
+    {
+      "customer_tweet_id": 1459956,
+      "conversation_id": 1459956,
+      "customer_message": "@SpotifyCares we going to see that Apple Watch app any time within the next 5 years?!",
+      "context": "None (thread root)",
+      "spotify_response": "@458871 2: add your vote to let our devs know it's something you'd like to see: https://t.co/SEK4E4gi22 /SY"
+    },
+    {
+      "customer_tweet_id": 1269681,
+      "conversation_id": 1269681,
+      "customer_message": "@SpotifyCares  hello i have removed playstation on my spotify account app page but will not link to my new psn account? help please",
+      "context": "None (thread root)",
+      "spotify_response": "@417276 Hey there, we'd love to help! Can you DM us your account's username or email address? We'll take a look backstage /JP"
+    },
+    {
+      "customer_tweet_id": 1172340,
+      "conversation_id": 1172338,
+      "customer_message": "@SpotifyCares Okay I\u2019ll try it thank you.",
+      "context": "Prior Turn [SpotifyCares (1172339)]: @164928 Thanks for that. Does logging out, restarting your device, and logging back into Spotify help? Keep us posted /JI",
+      "spotify_response": "@164928 Anytime! We'll be looking forward to your reply /JI"
+    },
+    {
+      "customer_tweet_id": 780948,
+      "conversation_id": 780949,
+      "customer_message": "@SpotifyCares . @115888 I don't need to vote for a sleep timer, just add the damn thing already. #UpAllNight #SleepSpotifySleep",
+      "context": "Prior Turn [SpotifyCares (780947)]: @306449 Hey! A sleep timer is a great idea. Help make it happen by adding support here: https://t.co/pMmX7wXq24 /NQ",
+      "spotify_response": "@306449 We hear you! Rest assured, your feedback will be passed on to the right folks /TB"
+    },
+    {
+      "customer_tweet_id": 588856,
+      "conversation_id": 588853,
+      "customer_message": "@SpotifyCares I just wanna know if spotify will ever be compatible with windows 7 again or if i have to upgrade to windows 10 to continue using it without problems.",
+      "context": "Prior Turn [Customer (588855)]: @SpotifyCares ????? how is this any different from what you just told me??? I've already tried deleting spotify from the \"roaming\" and \"local\" folders and then reinstalling spotify. It fixes it, but as soon as i turn my pc off and on again it starts giving me the same error message again.",
+      "spotify_response": "@259179 We hear you. Our best tech folks are on the case as we speak. Hopefully we'll have a fix soon!/DF"
+    }
+  ],
+  "playlist_library_and_curation": [
+    {
+      "customer_tweet_id": 668714,
+      "conversation_id": 668714,
+      "customer_message": "Yo! @115888 where did my netnobody tracks go? Why can't I listen to them and why was it deleted from my playlist? That's bot cool, I listen to those songs daily, and you just wanna ruin my day?",
+      "context": "None (thread root)",
+      "spotify_response": "@279458 Hey there! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon /NQ"
+    },
+    {
+      "customer_tweet_id": 173602,
+      "conversation_id": 173603,
+      "customer_message": "@SpotifyCares Unfortunately it was on mobile and isn\u2019t showing up in the recently played or play queue history. This is so extreme, but is there a way to pull history from certain time periods? Like 11-22-2017 between and 5:00-8:00EST?",
+      "context": "Prior Turn [SpotifyCares (173601)]: @156645 Hey there, the calvary's here! Try heading to Your Music/Library &gt; Recently Played. Let us know how you get on /TI https://t.co/ldFdZRiNAt",
+      "spotify_response": "@156645 We're afraid this is something we can't do at the moment, but we see how that could be handy. We'll pass your suggestion on to the right folks. For now, let us know if we can help with anything else /TK"
+    },
+    {
+      "customer_tweet_id": 1725339,
+      "conversation_id": 1725340,
+      "customer_message": "@SpotifyCares No it didn't so I deleted the app and reinstalled it but everything in my library etc has gone \ud83d\ude14",
+      "context": "Prior Turn [SpotifyCares (1725338)]: @521827 Hey there! That's not cool. Does restarting your phone help? Keep us posted \ud83d\ude42 /CG",
+      "spotify_response": "@521827 Hmm, that's odd. Could you DM us your account's email address and username? We'll take a look backstage \ud83d\ude42 /CG https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 1531486,
+      "conversation_id": 1531486,
+      "customer_message": "@115888 could you make a playlist of powerhouse artists who hit some serious notes? K, thanks.",
+      "context": "None (thread root)",
+      "spotify_response": "@475098 Hi there! Do you have any artists in mind? Also, what country is your account set to? We'll see what we can whip up /AK"
+    },
+    {
+      "customer_tweet_id": 1355801,
+      "conversation_id": 1355801,
+      "customer_message": "@115888 turned off autoplay in settings and STILL getting unwanted songs interrupting my playlists.",
+      "context": "None (thread root)",
+      "spotify_response": "@204404 Hmm. That's odd. Could you let us know the device/OS you're using? We'll see what we can suggest /DF"
+    },
+    {
+      "customer_tweet_id": 852675,
+      "conversation_id": 852675,
+      "customer_message": "hello @115888 when will you let us change our playlist covers through mobile phones :'(",
+      "context": "None (thread root)",
+      "spotify_response": "@322562 Hey there, thanks for the feedback \u2013 we appreciate it! We'll let the right team know it's something you'd like to see /JO"
+    },
+    {
+      "customer_tweet_id": 634397,
+      "conversation_id": 634397,
+      "customer_message": "@SpotifyCares App gave error message on 03/10 when trying to reset pwd. Working today but 7 yrs of playlists are gone! Please help.",
+      "context": "None (thread root)",
+      "spotify_response": "@270415 Hi Tony! Help's here. Can you DM us your account's email address? We'll take a look backstage /AU https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 2752815,
+      "conversation_id": 2752815,
+      "customer_message": "@115888 , can you please fix your shuffle? 400+ songs in a playlist and it plays the same 50 songs any time I press shuffle. There's variety in a playlist for a reason lmfao",
+      "context": "None (thread root)",
+      "spotify_response": "@770620 Hey there! The cavalry's here. Can you DM us your account's email address? We'll see what we can suggest /KB https://t.co/ldFdZRiNAt"
+    }
+  ],
+  "subscription_and_billing": [
+    {
+      "customer_tweet_id": 645097,
+      "conversation_id": 645097,
+      "customer_message": "@115888 your premium of 3 months for 99p doesn\u2019t work\u2639\ufe0f\ud83d\ude2c",
+      "context": "None (thread root)",
+      "spotify_response": "@273112 Hey there! We just sent you a reply to your DM, we'll continue assisting you there /TF"
+    },
+    {
+      "customer_tweet_id": 156972,
+      "conversation_id": 156972,
+      "customer_message": "Estoy en un plan familiar y soy el \u00fanico que se le acabo el premium, que debo hacer? @SpotifyCares",
+      "context": "None (thread root)",
+      "spotify_response": "@152054 \u00a1Hola! Hemos respondido a tu MD. Revisa tu bandeja de entrada /JF"
+    },
+    {
+      "customer_tweet_id": 1774181,
+      "conversation_id": 1774181,
+      "customer_message": "@SpotifyCares why can't I run spotify premium on my laptop?",
+      "context": "None (thread root)",
+      "spotify_response": "@533192 Hey, the cavalry's here! Are you getting any error messages on the app right now? A screenshot of what's happening would come in handy /KB"
+    },
+    {
+      "customer_tweet_id": 1520739,
+      "conversation_id": 1520740,
+      "customer_message": "@SpotifyCares My premium account is not picking up rssss, sad!",
+      "context": "Prior Turn [SpotifyCares (1520738)]: @472721 Hey there! Can you let us know what's happening exactly? We'd love to lend a hand /NS",
+      "spotify_response": "@472721 Hmm. Could you tell us more about it? Also, if you can DM us your account's email address or username, that'd be great /NS https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 1337494,
+      "conversation_id": 1337494,
+      "customer_message": "Good morning, @SpotifyCares! Having trouble changing my Country to US (moved from Spain). Already updated my payment to a US debit card.",
+      "context": "None (thread root)",
+      "spotify_response": "@431969 Hi there! Can you DM us your account's email address? We'll have a look backstage /ST https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 776169,
+      "conversation_id": 776169,
+      "customer_message": "@SpotifyCares not sure if anyone is there but I have a question about you premium service that I am getting conflicting info on",
+      "context": "None (thread root)",
+      "spotify_response": "@305458 Hey Jeff, fire away with your question! We'd love to lend a hand /AR"
+    },
+    {
+      "customer_tweet_id": 613352,
+      "conversation_id": 613352,
+      "customer_message": "@115888 I recently updated my account details to claim student discount, however I\u2019m now being charged for Premium and the student price! Please can you help me! \ud83d\ude1e",
+      "context": "None (thread root)",
+      "spotify_response": "@265855 Hey Amy! Help's here. Could you DM us your account's username or email address? We'll take a look backstage /TM https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 2633308,
+      "conversation_id": 2633308,
+      "customer_message": "@SpotifyCares I PAY for Spotify premium, why did I just have two back to back ads? Idc if it\u2019s the holidays I pay for premium for a reason.",
+      "context": "None (thread root)",
+      "spotify_response": "@743514 Hey, that's not cool! Could you DM us your account's username and email address? We'll take a look backstage /BX https://t.co/ldFdZRiNAt"
+    }
+  ],
+  "music_catalog_and_content": [
+    {
+      "customer_tweet_id": 2560540,
+      "conversation_id": 2560541,
+      "customer_message": "@SpotifyCares Ok so they have to make the artist profile for me  and all of that ? I shouldn\u2019t try/do it myself ?",
+      "context": "Prior Turn [SpotifyCares (2560539)]: @726763 Hi there! Sorry to hear that. We\u2019d recommend reaching out to your distributor. They'll work with our team to make sure your artist page gets fixed up /LP",
+      "spotify_response": "@726763 It'd be best to get in touch with your distributor for more info on this. Hopefully this'll get sorted out soon. If there's anything else, let us know /LP"
+    },
+    {
+      "customer_tweet_id": 620387,
+      "conversation_id": 620387,
+      "customer_message": "@28787 why is \"anything but mine\" from live in no shoes nation showing as unavailable on @115888 , i need that song in my life",
+      "context": "None (thread root)",
+      "spotify_response": "@267247 Hey Matt! We\u2019d love to have all of their stuff available, but we have some info about content here: https://t.co/MEjmIRL2eB /PX"
+    },
+    {
+      "customer_tweet_id": 155380,
+      "conversation_id": 155380,
+      "customer_message": "Wtf upload the damn new Loreen album @115888",
+      "context": "None (thread root)",
+      "spotify_response": "@151642 Hey there, we're here to help! Could you let us know what country your Spotify account is set to? We'll take a look backstage /TB"
+    },
+    {
+      "customer_tweet_id": 1306866,
+      "conversation_id": 1306866,
+      "customer_message": "@115888 Is there a reason some albums are not complete? \"Troubadour\" by George Strait is missing from the album of the same name! Help!",
+      "context": "None (thread root)",
+      "spotify_response": "@407391 Hey Charlie! Is this what you're looking for: https://t.co/vcDjb8H3ZY? /NS"
+    },
+    {
+      "customer_tweet_id": 1193643,
+      "conversation_id": 1193641,
+      "customer_message": "@SpotifyCares But why that one album? Specifics plz",
+      "context": "Prior Turn [SpotifyCares (1193642)]: @199701 Thanks. We'd love to have all of them on Spotify, but we're afraid it all boils down to licensing. More info at https://t.co/0i8GpimuDa /PB",
+      "spotify_response": "@199701 We're afraid we don't have any more info to share. We'd recommend getting in touch with their distributors if you want to know more /PB"
+    },
+    {
+      "customer_tweet_id": 1098783,
+      "conversation_id": 1098783,
+      "customer_message": "@115888 why did you delete btob's complete album?",
+      "context": "None (thread root)",
+      "spotify_response": "@126367 Hi there. Sometimes content becomes unavailable due to licensing. More info at https://t.co/YlV1IAXwsi. Any other questions, just shout /LM"
+    },
+    {
+      "customer_tweet_id": 746958,
+      "conversation_id": 746958,
+      "customer_message": "@115888 Did you guys really just play an ad in the middle of my song? That's new.",
+      "context": "None (thread root)",
+      "spotify_response": "@298570 Hey there! That's not cool. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /KL"
+    },
+    {
+      "customer_tweet_id": 2984770,
+      "conversation_id": 2984770,
+      "customer_message": "We need a Christmas album \ud83d\ude0f\ud83d\ude4f https://t.co/Y8VSFiJKpp",
+      "context": "None (thread root)",
+      "spotify_response": "@823052 Hey there! We hear you \ud83c\udfa7 We can\u2019t make any promises but we\u2019ll pass your feedback onto the right folks /PK"
+    }
+  ],
+  "non_support_or_chatter": [
+    {
+      "customer_tweet_id": 2319849,
+      "conversation_id": 2319850,
+      "customer_message": "@SpotifyCares Thanks for getting back to me, seems to be working now... im on an Iphone working on 9.3.2 (so rather out dated, that may be the issue).",
+      "context": "Prior Turn [SpotifyCares (2319848)]: @672359 Hey Natasha, help's here. What device and operating system is this happening on? Does logging out and back in make a difference? /AY",
+      "spotify_response": "@672359 Great to hear you found a way around it! Just give us a shout if the problem persists. We're... https://t.co/zOXI69QSqg \ud83d\ude42 /AY"
+    },
+    {
+      "customer_tweet_id": 483962,
+      "conversation_id": 483967,
+      "customer_message": "@SpotifyCares Thanks a lot!! Very exited! \ud83d\ude06",
+      "context": "Prior Turn [SpotifyCares (483961)]: @230137 Oh, gotcha! Don't worry, we're definitely doing \"Wrapped\" this year. For now, keep your eyes peeled for more info in the coming weeks \ud83d\udc40 /JE",
+      "spotify_response": "@230137 We won't disagree! Will you join us in playing this really loud? https://t.co/vxtgnM8D1J \ud83c\udfa7 Have a great day \ud83d\ude01 /JE"
+    },
+    {
+      "customer_tweet_id": 116579,
+      "conversation_id": 116581,
+      "customer_message": "@SpotifyCares Thank you for your quick response, but I've already chatted with a Spotify operator and he was able to solve the problem! \ud83d\ude09 Good service btw \ud83d\udc4d",
+      "context": "Prior Turn [SpotifyCares (116580)]: @141973 Hey Lorenzo, help's here! Could you DM us your account's email address or the email registered on your Facebook account? We'll take a look under the hood /WP https://t.co/ldFdZRiNAt",
+      "spotify_response": "@141973 That's great to hear! Give us a shout if you need anything else. We'll be... https://t.co/LgAM6ky9Vv /WP"
+    },
+    {
+      "customer_tweet_id": 2743175,
+      "conversation_id": 2738093,
+      "customer_message": "@SpotifyCares Thank you very much for your time!! I'll do it and see if it starts to run smoothly again now",
+      "context": "Prior Turn [SpotifyCares (2738090)]: @767207 Thanks for sending them over. Things are looking good on your account. Since we've just released a new version of the app, the best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. Let us know how it goes /AG",
+      "spotify_response": "@767207 No worries! Just DM us again when you get back to us. We'll keep an eye out for your updates /AG"
+    },
+    {
+      "customer_tweet_id": 1079422,
+      "conversation_id": 1079429,
+      "customer_message": "@SpotifyCares Thanks guys! I just want you to be the very best!",
+      "context": "Prior Turn [SpotifyCares (1079421)]: @374613 We hear you! We'll get it passed onto our team. If you ever need anything else, just shout and we'll come running \ud83c\udfc3 /KL",
+      "spotify_response": "@374613 You're welcome! No... https://t.co/EcE7iXGP1b /KL"
+    },
+    {
+      "customer_tweet_id": 950426,
+      "conversation_id": 950428,
+      "customer_message": "@SpotifyCares thanks. i resolved by restarting the application. btw the device is a MacBook Pro, OSX, and Spotify version is 1.0.65.320.gac7a8e02...",
+      "context": "Prior Turn [SpotifyCares (950427)]: @345430 Hey, help's here! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /RS",
+      "spotify_response": "@345430 Great! Glad to hear it's working. Just let us know if we can help with anything else. https://t.co/m4HWSbgHVZ /RS"
+    },
+    {
+      "customer_tweet_id": 875200,
+      "conversation_id": 875202,
+      "customer_message": "@SpotifyCares Thanks for noticing it :) With some time more and more songs are getting available.",
+      "context": "Prior Turn [SpotifyCares (875201)]: @327792 Hi Madeline, help's here. Can you let us know the device/OS and Spotify version you're using? We'll see what we can suggest /NY",
+      "spotify_response": "@327792 Sometimes content gets temporarily removed because of licensing changes. Are you having trouble playing any of David Archuleta's songs? /TB"
+    },
+    {
+      "customer_tweet_id": 622838,
+      "conversation_id": 622838,
+      "customer_message": "Thanks for the reply @SpotifyCares @115888 . The African market is open for business . Trends and market trajectory shows #Nigeria is ready for you guys . #Spotify #DigitalMarket #DigitalProducts https://t.co/y3XjbJjbPb",
+      "context": "None (thread root)",
+      "spotify_response": "@267840 We hear you \ud83c\udfa7 Rest assured, your feedback will be passed on to the right folks /MX"
+    }
+  ],
+  "account_access_and_login": [
+    {
+      "customer_tweet_id": 116624,
+      "conversation_id": 116604,
+      "customer_message": "@117153 Still not letting me log in... it keeps on telling me that there is some error 3 and that my username / password is incorrect, but I am sure it is correct....",
+      "context": "Prior Turn [Customer (116604)]: All clear! Everything\u2019s looking good again. Enjoy the tunes.",
+      "spotify_response": "@285496 Hey Annika, help's here! Could you send us a DM with your account's email address or username? We'll take a look backstage /CO https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 158930,
+      "conversation_id": 158930,
+      "customer_message": "@SpotifyCares I can not reset my password",
+      "context": "None (thread root)",
+      "spotify_response": "@152535 Hey Marcus, help's arrived! Could you DM us your username and email address? We'll check it out \ud83d\udd0d /JY https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 1848357,
+      "conversation_id": 1848357,
+      "customer_message": "@SpotifyCares HELP!!! My account has been hacked AGAIN! I am very upset with your service!",
+      "context": "None (thread root)",
+      "spotify_response": "@553488 Hi Spencer, help's here! Can you DM us with your account's username and email address? Don't worry, we'll help sort it out /WW https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 1772023,
+      "conversation_id": 1772023,
+      "customer_message": "@SpotifyCares My account has been hacked, email changed and I'm locked out. Can you help?",
+      "context": "None (thread root)",
+      "spotify_response": "@532609 Hey, help's here! Can you DM us your account's email address? We'll take a look /RB https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 1580650,
+      "conversation_id": 1580650,
+      "customer_message": "@SpotifyCares hopefully you can help me figure out my problem with logging in",
+      "context": "None (thread root)",
+      "spotify_response": "@355487 Hi! We've replied to your DM. Let's continue chatting there /GU"
+    },
+    {
+      "customer_tweet_id": 909940,
+      "conversation_id": 909940,
+      "customer_message": "@SpotifyCares I'm having issues cancelling my spotify. I recently lost access to my Facebook and can't log in.",
+      "context": "None (thread root)",
+      "spotify_response": "@336134 Hey, help's here! Can you DM us your account's email address? We'll take a look under the hood /JM https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 627399,
+      "conversation_id": 627399,
+      "customer_message": "Looks like someone has hacked my @115888 account.",
+      "context": "None (thread root)",
+      "spotify_response": "@261793 Hey James! Help's here! Could you DM us your username or email address? We'll take a look backstage /Q"
+    },
+    {
+      "customer_tweet_id": 565380,
+      "conversation_id": 565380,
+      "customer_message": "@147836 Spotify username msolby. Spotify devotee. Can you help customer support solve my login problems. Days without music is no fun.",
+      "context": "None (thread root)",
+      "spotify_response": "@252489 Hey Marc, help's here! Could you send us a DM with your account's email address? We'll make sure to help you log back in to your account \ud83d\ude42 /VA https://t.co/ldFdZRiNAt"
+    }
+  ],
+  "playback_and_audio": [
+    {
+      "customer_tweet_id": 739007,
+      "conversation_id": 739007,
+      "customer_message": "@115888 seriously stop making me listen to your sponsored ads. I have never ONCE experienced 30 mins of ad free listening. \ud83d\ude02 #whatajoke",
+      "context": "None (thread root)",
+      "spotify_response": "@296742 2: cause the ad-free time to reset /RR"
+    },
+    {
+      "customer_tweet_id": 166655,
+      "conversation_id": 166655,
+      "customer_message": "Hey @115888 feature request. A button that stops Christmas songs playing before 1st December. Thanks.",
+      "context": "None (thread root)",
+      "spotify_response": "@154713 We can see how that\u2019d be handy. Thanks for taking the time to reach out \u2013 your feedback's been noted \ud83d\udcdd /DF"
+    },
+    {
+      "customer_tweet_id": 1834571,
+      "conversation_id": 1834567,
+      "customer_message": "@SpotifyCares I'm using my phone speaker. But if I do Bluetooth it's fine",
+      "context": "Prior Turn [SpotifyCares (1834570)]: @550247 Hmm. What make &amp; model of speakers are you using? On another note, are you using an AUX cord to stream? We'll be right here waiting /LP",
+      "spotify_response": "@550247 That's odd. Could you DM us your account's username or email address? We'll take a look backstage /LP https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 1688967,
+      "conversation_id": 1688967,
+      "customer_message": "@spotifycares it seems that adjusting volume from the lock screen on iOS is not working. Not sure if that is a known bug or not.",
+      "context": "None (thread root)",
+      "spotify_response": "@184259 Hey there! Can you let us know your device and the versions of iOS and Spotify you're running? We'll see what we can suggest /AG"
+    },
+    {
+      "customer_tweet_id": 1526249,
+      "conversation_id": 1526249,
+      "customer_message": "Dear @115888  Stop telling me to start Waze  I did not open Spotify to open Waze Sincerely, PizzaNif",
+      "context": "None (thread root)",
+      "spotify_response": "@473997 Hey there! Could you go to Settings &gt; Social &gt;turn off Waze navigation. Let us know how it goes /DF"
+    },
+    {
+      "customer_tweet_id": 909573,
+      "conversation_id": 909577,
+      "customer_message": "@115888 Haah I just updated the @117168 app on iOS and it routes audio correctly again! Was that a short bug I missed?",
+      "context": "Prior Turn [Customer (909574)]: @115888 all the other apps work correctly \u2026 @117168 has audio flipped left to right",
+      "spotify_response": "@336043 Hi Paul! Looks like it \ud83d\ude42 Just let us know if we can help with anything else. https://t.co/m4HWSbgHVZ /LO"
+    },
+    {
+      "customer_tweet_id": 689541,
+      "conversation_id": 110060,
+      "customer_message": "@SpotifyCares Hi there. Unfortunately it didn\u2019t work.  Tried the same scenario on my wife\u2019s phone (she\u2019s got the same iOS and app versions). The gif muted the Spotify audio, but it kicked back in afterwards. Tres strange.",
+      "context": "Prior Turn [SpotifyCares (689540)]: @140436 Sounds like a plan! Looking forward to hearing from you. We'll be right here /JE",
+      "spotify_response": "@140436 Thanks for keeping us in the loop. Can you DM us your account's email address or username? We'll take a closer look /JE https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 570528,
+      "conversation_id": 570528,
+      "customer_message": "@115888 hi there, how do I stop my music from cutting off when I receive a snapchat notification?",
+      "context": "None (thread root)",
+      "spotify_response": "@253957 Hey there! Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest /AP"
+    }
+  ],
+  "offline_listening_and_downloads": [
+    {
+      "customer_tweet_id": 2312952,
+      "conversation_id": 2312952,
+      "customer_message": "I really wish @115888 increased the maximum amount of songs you can download. 3,333 is not enough",
+      "context": "None (thread root)",
+      "spotify_response": "@670748 We can see how that\u2019d be handy. Thanks for taking the time to reach out \u2013 your feedback's been noted \ud83d\udcdd /DF"
+    },
+    {
+      "customer_tweet_id": 584150,
+      "conversation_id": 584150,
+      "customer_message": "@115888 Hey friends, did you change something with the app? I used to be able to play on my Apple TV from the app. Now all the options prompt me to download the app to an external device (TV/Computer/etc). Are you no longer compatible w/Apple TV? Thanks!",
+      "context": "None (thread root)",
+      "spotify_response": "@257825 Hey Helen! Help's here. Could you DM us your account's email address? We'll take a look backstage /C https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 124823,
+      "conversation_id": 124823,
+      "customer_message": "@115888 can you tell me why tf yall take up .94 GB of storage?",
+      "context": "None (thread root)",
+      "spotify_response": "@143960 Hay Jaden! Can you let us know the device, operating system, and Spotify version you're using? A screenshot of what you're seeing would also come in handy /RH"
+    },
+    {
+      "customer_tweet_id": 2705120,
+      "conversation_id": 2705122,
+      "customer_message": "it's also on spotify but the bandcamp paid download has four bonus tracks, I can't even find a list of what they are and I'm very eager to find out https://t.co/karW3M91fb",
+      "context": "Prior Turn [Customer (2705122)]: ahhhhhhh Mirah has a new EP out, it's mostly new recordings of older songs with new arrangements, and I am sure no one but me cares but it's VERY GOOD. https://t.co/HkFDDZuZdk",
+      "spotify_response": "@759748 1: Hey! We're no longer sending email notifications for every new release, but you can head to Browse &gt; New Releases to find the latest releases updated every Friday."
+    },
+    {
+      "customer_tweet_id": 1270557,
+      "conversation_id": 1270558,
+      "customer_message": "@417476 #iluvdrumandbass I love drum and bass but hate that spotify cannot be downloaded in South Africa What happened to unity @115888 ?",
+      "context": "Prior Turn [Customer (1270558)]: #iluvdrumandbass https://t.co/jawaFxGDsg https://t.co/AiBZR9W5bX",
+      "spotify_response": "@417475 Hey! We've just sent you a bit more info over DM \ud83d\ude42 /CO"
+    },
+    {
+      "customer_tweet_id": 1177223,
+      "conversation_id": 1177232,
+      "customer_message": "@SpotifyCares I tried to log off and on again, and I tried to uninstal Spotify and downloading it again, still didn't work",
+      "context": "Prior Turn [SpotifyCares (1177222)]: @396899 Got it! It should be available in your region. Can you try logging out then back in? Restarting your devices might also help /PB",
+      "spotify_response": "@396899 We understand. Our best tech folks are on the case as we speak. Hopefully we'll have a fix soon! /PB"
+    },
+    {
+      "customer_tweet_id": 1075223,
+      "conversation_id": 1075220,
+      "customer_message": "@SpotifyCares Please try! It\u2019s been offline now for like 2 months \ud83d\ude2b\ud83d\ude2b\ud83d\ude2b",
+      "context": "Prior Turn [SpotifyCares (1075222)]: @373691 Thanks. Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon! /JP",
+      "spotify_response": "@373691 We also can't find the playlist. Don't worry, we\u2019ll have it available to you as soon as it\u2019s available to us! https://t.co/0i8GpimuDa /JP"
+    },
+    {
+      "customer_tweet_id": 727997,
+      "conversation_id": 727998,
+      "customer_message": "okay so spotify deleted over 1000 songs without my permission and is now downloading them again lol thank u @115888",
+      "context": "Prior Turn [Customer (727998)]: i owe spotify my life but can it please stop deleting random songs off all my saved full albums\ud83d\ude2d",
+      "spotify_response": "@294400 Hey Krya! Can you DM us your account's email address and username? We'll take a look backstage \ud83d\ude42 /CG https://t.co/ldFdZRiNAt"
+    }
+  ],
+  "unclassifiable_or_foreign": [
+    {
+      "customer_tweet_id": 2342301,
+      "conversation_id": 2342301,
+      "customer_message": "@118266 mengapa spotify saya tidak bisa masuk ? dan bagaimana cara mereset ulang ? karena pilihan negara di akun tidak ada indonesia. https://t.co/gUcmHJWYhf",
+      "context": "None (thread root)",
+      "spotify_response": "@677500 Hey there! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /PL"
+    },
+    {
+      "customer_tweet_id": 427473,
+      "conversation_id": 427473,
+      "customer_message": "@118266 udah 1 minggu kayak gini, udah lapor ke bank katanya gak ada masalah. Ada solusi? Terimakasih. https://t.co/TAPC6BXFRy",
+      "context": "None (thread root)",
+      "spotify_response": "@216669 Hey! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /NY"
+    },
+    {
+      "customer_tweet_id": 74910,
+      "conversation_id": 74910,
+      "customer_message": "Hai @118266 kenapa album 'Jalan Terus' dari @4375 tidak ada ya? Dari 'Pejantan Tangguh' langsung ke '507' https://t.co/lgqkDRWnoq",
+      "context": "None (thread root)",
+      "spotify_response": "@132764 Hey Aulia! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /PK"
+    },
+    {
+      "customer_tweet_id": 2701167,
+      "conversation_id": 2701167,
+      "customer_message": "@118266 Halooo, untuk berlangganan premium, pembayarannya bisa melalui apa aja ya?",
+      "context": "None (thread root)",
+      "spotify_response": "@758771 Hey! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /XF"
+    },
+    {
+      "customer_tweet_id": 919002,
+      "conversation_id": 919002,
+      "customer_message": "@117153 merhabalar ben Premium \u00fcyelik ald\u0131m velakin para \u00e7ekilmesine ra\u011fmen \u00fcyeli\u011fim tan\u0131mlanmad\u0131 yard\u0131mc\u0131 olursan\u0131z",
+      "context": "None (thread root)",
+      "spotify_response": "@338162 Hi Mehmet! We can help out in English via Twitter, but we also have Turkish support via email at https://t.co/ZgU70TbP8M /MU"
+    },
+    {
+      "customer_tweet_id": 796689,
+      "conversation_id": 796689,
+      "customer_message": "Delen vanuit mijn IPhone werkt niet meer. Geldt zowel voor t delen van artikelen naar social als muziek vanuit #Spotify iemand een idee?",
+      "context": "None (thread root)",
+      "spotify_response": "@309981 1: Hey! We can help out in English via Twitter, but we also have Dutch support via email at https://t.co/ZgU70TbP8M /M"
+    },
+    {
+      "customer_tweet_id": 727691,
+      "conversation_id": 727691,
+      "customer_message": "@SpotifyCares comment fait-on pour avoir l'offre \u00e9tudiante au lieu de payer 9.99?Vous ne r\u00e9pondez pas sur fb",
+      "context": "None (thread root)",
+      "spotify_response": "@294322 Hey there! We can help out in English via Twitter, but we also have French support via email at https://t.co/ZgU70TbP8M /NS"
+    },
+    {
+      "customer_tweet_id": 557241,
+      "conversation_id": 557241,
+      "customer_message": "Hei @115888! Saanko todellakin kolme kuukautta t\u00e4ll\u00e4 hinnalla? Vai onko vaan mainos \ud83d\ude09 https://t.co/uGiYZ0xKcZ",
+      "context": "None (thread root)",
+      "spotify_response": "@250112 Hey! We can help out in English via Twitter, but we also have Finnish support via email at https://t.co/ZgU70TbP8M \ud83d\ude42 /CG"
+    }
+  ],
+  "app_crash_and_performance": [
+    {
+      "customer_tweet_id": 2291109,
+      "conversation_id": 2291109,
+      "customer_message": "Hey @115888 why does your app crash when I press play on any of my music??",
+      "context": "None (thread root)",
+      "spotify_response": "@665462 Hey there! Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest /RC"
+    },
+    {
+      "customer_tweet_id": 376893,
+      "conversation_id": 376889,
+      "customer_message": "@SpotifyCares Have @115948  @GooglePlayMusic @129941 had sharing crash their apps 4 days consecutively? #timetoswitch #whowantsmymoney",
+      "context": "Prior Turn [SpotifyCares (376892)]: @205425 We understand how you feel. Our best tech folks are on the case as we speak. Hopefully we'll have a fix soon! /DV",
+      "spotify_response": "@205425 We're sorry you feel that way. Rest assured, we're on it. Our developers are looking into this, and we'll keep everyone updated /DV"
+    },
+    {
+      "customer_tweet_id": 89556,
+      "conversation_id": 89556,
+      "customer_message": "@115888 your latest update 1.0.69.323 is crashing during install, and will no longer let me launch the program. Please help! Music is what I need to keep my sanity ;) I\u2019m using windows 7",
+      "context": "None (thread root)",
+      "spotify_response": "@135370 Hey there! The cavalry's here. Best thing to try here is a clean reinstall. Just follow the steps at https://t.co/PDA2aKzC6Q. Let us know how it goes /KB"
+    },
+    {
+      "customer_tweet_id": 2790764,
+      "conversation_id": 2790764,
+      "customer_message": "@SpotifyCares Galaxy Note 8; Android 7.1.1: New update just crashes Spotify. I can open the app but that's it. Done all the usual steps (uninstalled, deleted cache e.c.t.) Please look into this!",
+      "context": "None (thread root)",
+      "spotify_response": "@778892 Hey there! Could you let us know the exact app version on your device? If you're getting any error messages, a screenshot of it would be handy. We'll see what we can suggest /LP"
+    },
+    {
+      "customer_tweet_id": 1007954,
+      "conversation_id": 1007958,
+      "customer_message": "@SpotifyCares Nope! It just freezes then quits. I can\u2019t tell if it\u2019s my phone or the app, but it doesn\u2019t seem to happen with any other app.",
+      "context": "Prior Turn [SpotifyCares (1007955)]: @358515 Are you getting any specific error messages? Also, is it happening when you try streaming music or during offline listening? /NJ",
+      "spotify_response": "@358515 We understand. Are you able to pull up the app and log in or not at all? Just to check, are you connected via WiFi or mobile data? /NJ"
+    },
+    {
+      "customer_tweet_id": 839942,
+      "conversation_id": 839942,
+      "customer_message": "@SpotifyCares I am unable to \"share\" anything. The app crashes when I try",
+      "context": "None (thread root)",
+      "spotify_response": "@319831 Hey Scott! What device, operating system, and Spotify version are you using? Are you getting any specific error messages? /KC"
+    },
+    {
+      "customer_tweet_id": 772043,
+      "conversation_id": 772043,
+      "customer_message": "@SpotifyCares Did spotify crash? Hasn't worked all day.",
+      "context": "None (thread root)",
+      "spotify_response": "@304407 Hey there! Can you let us know the device/OS and Spotify version you're using? We'll see what we can suggest /AR"
+    },
+    {
+      "customer_tweet_id": 482459,
+      "conversation_id": 482459,
+      "customer_message": "@SpotifyCares The spotify app keeps crashing on launch on my oneplus 5??",
+      "context": "None (thread root)",
+      "spotify_response": "@229742 Got it. Does restarting your device help at all? Also, is this happening across all your devices? Keep us posted /LP"
+    }
+  ],
+  "service_outage_and_status": [
+    {
+      "customer_tweet_id": 1132377,
+      "conversation_id": 1132382,
+      "customer_message": "@SpotifyCares Unless you can put me in contact with the product team(s) you can stand down. Cheers though.",
+      "context": "Prior Turn [SpotifyCares (1132381)]: @386839 Hi Luke, help's here. Can you let us know the device you're using, its operating system, and Spotify version? We'll see what we can do /NY",
+      "spotify_response": "@386839 We'd like to lend a hand. Is this happening via WiFi, 3G/4G, or both? Keep us posted /NY"
+    },
+    {
+      "customer_tweet_id": 187783,
+      "conversation_id": 187791,
+      "customer_message": "@SpotifyCares It\u2019s almost as though the app is turning down the output gain on the headphone amplifier",
+      "context": "Prior Turn [SpotifyCares (187782)]: @160067 Do you experience the volume issue as well? If yes, does it happen when using both headphones/earphones or speakers? /SJ",
+      "spotify_response": "@160067 Can you DM us your account's username or email address? We'll take a look backstage /CM https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 2368791,
+      "conversation_id": 2368791,
+      "customer_message": "@115888 major glitch in your recent update for Android. Can't get shared links-- it shuts down app!!",
+      "context": "None (thread root)",
+      "spotify_response": "@683640 Hey Katie! Could you send us a DM with your account's email address and username, as well as your device/OS? We'll take a look backstage /TB"
+    },
+    {
+      "customer_tweet_id": 2139018,
+      "conversation_id": 2139018,
+      "customer_message": "Dear @115888 - I can only hit \"thumbs down\" so many times. How can I add a #NeverPlayEddieMoney rule?",
+      "context": "None (thread root)",
+      "spotify_response": "@629102 Hey Michael! Hey This isn't possible right now, but you can show your support for the idea in our Community: https://t.co/oGDLtirXki /AR"
+    },
+    {
+      "customer_tweet_id": 1982444,
+      "conversation_id": 1982445,
+      "customer_message": "@115888 Im feeling so fucking down rn I WANT GOT7 I NEED THEM",
+      "context": "Prior Turn [Customer (1982445)]: i bought spotify premium but where is got7??????ARE YOU KIDDING ME @115888",
+      "spotify_response": "@586807 Hey there! We\u2019d love to have all of their stuff available, but we have some info about content here: https://t.co/0i8GpimuDa /CG"
+    },
+    {
+      "customer_tweet_id": 1512313,
+      "conversation_id": 1512313,
+      "customer_message": "Hey Familia (@125633 @SpotifyCares) is the website down? Trying to get some stats. \ud83d\ude09",
+      "context": "None (thread root)",
+      "spotify_response": "@132671 @125633 Hey! We've just replied to your DM. We'll carry on chatting there /K"
+    },
+    {
+      "customer_tweet_id": 1002351,
+      "conversation_id": 1002354,
+      "customer_message": "@SpotifyCares My spotify account is down because I reply mine purchase but this was a repil. Can you check this",
+      "context": "Prior Turn [SpotifyCares (1002353)]: @357278 Hi there! We can help out in English via Twitter, but we also have Dutch support via email over at https://t.co/XGIC7aZtMa /WW",
+      "spotify_response": "@357278 2: Could you send us more info via DM instead? We'll take a look for you /NJ https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 679140,
+      "conversation_id": 679140,
+      "customer_message": "How am I supposed to workout this morning when Spotify is down? Not cool, Spotify!!",
+      "context": "None (thread root)",
+      "spotify_response": "@282054 Hey, we\u2019re here to help! Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest /RC"
+    }
+  ]
+}

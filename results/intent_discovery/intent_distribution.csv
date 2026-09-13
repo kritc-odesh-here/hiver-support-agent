@@ -1,0 +1,13 @@
+category,category_type,count,percentage
+ambiguous_vague,Edge/Special Class,23176,53.78
+subscription_and_billing,Support Intent,5210,12.09
+multi_intent,Edge/Special Class,3061,7.1
+music_catalog_and_content,Support Intent,3030,7.03
+playlist_library_and_curation,Support Intent,2438,5.66
+account_access_and_login,Support Intent,2106,4.89
+non_support_or_chatter,Edge/Special Class,1245,2.89
+playback_and_audio,Support Intent,1044,2.42
+offline_listening_and_downloads,Support Intent,832,1.93
+unclassifiable_or_foreign,Edge/Special Class,459,1.07
+service_outage_and_status,Support Intent,284,0.66
+app_crash_and_performance,Support Intent,207,0.48

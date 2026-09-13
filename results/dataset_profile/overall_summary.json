@@ -1,0 +1,28 @@
+{
+  "file_name": "sample.csv",
+  "file_size_mb": 0.02,
+  "total_rows": 93,
+  "unique_tweets": 93,
+  "duplicate_tweet_ids": 0,
+  "inbound_tweets": 49,
+  "inbound_pct": 52.69,
+  "outbound_tweets": 44,
+  "outbound_pct": 47.31,
+  "date_range": {
+    "min_date": "2017-10-10T10:13:19+00:00",
+    "max_date": "2017-10-12T12:09:13+00:00",
+    "span_days": 2
+  },
+  "unique_authors_total": 42,
+  "unique_inbound_authors": 29,
+  "unique_outbound_brands": 13,
+  "total_reconstructed_threads": 27,
+  "data_quality": {
+    "orphan_parent_references": 2,
+    "orphan_pct": 3.03,
+    "missing_child_references": 6,
+    "missing_child_pct": 8.33,
+    "empty_or_whitespace_messages": 0,
+    "ultra_short_messages": 0
+  }
+}

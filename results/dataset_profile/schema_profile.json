@@ -1,0 +1,46 @@
+{
+  "columns": [
+    {
+      "column": "tweet_id",
+      "inferred_type": "int64",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "author_id",
+      "inferred_type": "string (handle/anonymized ID)",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "inbound",
+      "inferred_type": "boolean",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "created_at",
+      "inferred_type": "datetime (RFC 2822 format)",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "text",
+      "inferred_type": "string",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "response_tweet_id",
+      "inferred_type": "string (comma-separated int list)",
+      "missing_count": 28,
+      "missing_pct": 30.11
+    },
+    {
+      "column": "in_response_to_tweet_id",
+      "inferred_type": "float64/int64 (nullable parent ID)",
+      "missing_count": 25,
+      "missing_pct": 26.88
+    }
+  ]
+}

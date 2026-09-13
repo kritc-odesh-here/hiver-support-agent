@@ -1,0 +1,404 @@
+{
+  "ChaseSupport": [
+    {
+      "root_tweet_id": 119239,
+      "turn_count": 2,
+      "tweets": [
+        {
+          "tweet_id": 119239,
+          "author_id": "105835",
+          "inbound": true,
+          "created_at": "Wed Oct 11 13:00:09 +0000 2017",
+          "text": "@76328 I really hope you all change but I'm sure you won't! Because you don't have to!",
+          "in_response_to_tweet_id": "",
+          "response_tweet_id": "119238"
+        },
+        {
+          "tweet_id": 119238,
+          "author_id": "ChaseSupport",
+          "inbound": false,
+          "created_at": "Wed Oct 11 13:25:49 +0000 2017",
+          "text": "@105835 Your business means a lot to us. Please DM your name, zip code and additional details about your concern. ^RR https://t.co/znUu1VJn9r",
+          "in_response_to_tweet_id": "119239",
+          "response_tweet_id": ""
+        }
+      ]
+    }
+  ],
+  "British_Airways": [
+    {
+      "root_tweet_id": 119265,
+      "turn_count": 5,
+      "tweets": [
+        {
+          "tweet_id": 119265,
+          "author_id": "105842",
+          "inbound": true,
+          "created_at": "Wed Oct 11 10:42:43 +0000 2017",
+          "text": "First flight for long time with @British_Airways. Now over one 1h delay for the short jump FRA-LCY and NO one here to provide status updates",
+          "in_response_to_tweet_id": "",
+          "response_tweet_id": "119264,119266"
+        },
+        {
+          "tweet_id": 119264,
+          "author_id": "British_Airways",
+          "inbound": false,
+          "created_at": "Wed Oct 11 13:36:31 +0000 2017",
+          "text": "@105842 We're sorry your flight has been delayed, Beatner. Are you travelling on the BA8733? If so, the updated departure time we have is 15:30. 1/2",
+          "in_response_to_tweet_id": "119265",
+          "response_tweet_id": ""
+        },
+        {
+          "tweet_id": 119266,
+          "author_id": "British_Airways",
+          "inbound": false,
+          "created_at": "Wed Oct 11 13:37:15 +0000 2017",
+          "text": "@105842 I appreciate it's after 15:30 now, so hopefully you will depart very soon. We're sorry for any inconvenience the delay has caused. 2/2 ^JR",
+          "in_response_to_tweet_id": "119265",
+          "response_tweet_id": "119302"
+        },
+        {
+          "tweet_id": 119302,
+          "author_id": "105842",
+          "inbound": true,
+          "created_at": "Wed Oct 11 13:47:24 +0000 2017",
+          "text": "@British_Airways Thanks for your answer. Response onsite was that Aircraft will not depart today, so rebooking to @105853 with now 4h delay...",
+          "in_response_to_tweet_id": "119266",
+          "response_tweet_id": "119303"
+        },
+        {
+          "tweet_id": 119303,
+          "author_id": "British_Airways",
+          "inbound": false,
+          "created_at": "Wed Oct 11 16:28:34 +0000 2017",
+          "text": "@105842 Very sorry to hear this.  We hope you get everything sorted.   Kind Regards ^Jools",
+          "in_response_to_tweet_id": "119302",
+          "response_tweet_id": ""
+        }
+      ]
+    }
+  ],
+  "SpotifyCares": [
+    {
+      "root_tweet_id": 119256,
+      "turn_count": 8,
+      "tweets": [
+        {
+          "tweet_id": 119256,
+          "author_id": "105840",
+          "inbound": true,
+          "created_at": "Wed Oct 11 12:53:29 +0000 2017",
+          "text": "@76495 @91226 Please help! Spotify Premium skipping through songs constantly on android tablet &amp; bluetooth speaker. Tried everything!",
+          "in_response_to_tweet_id": "",
+          "response_tweet_id": "119254"
+        },
+        {
+          "tweet_id": 119254,
+          "author_id": "SpotifyCares",
+          "inbound": false,
+          "created_at": "Wed Oct 11 13:41:25 +0000 2017",
+          "text": "@105840 Hi there! What device is this happening on? If you could also let us know the Android and Spotify versions you're using, that'd be great /AY",
+          "in_response_to_tweet_id": "119256",
+          "response_tweet_id": "119255"
+        },
+        {
+          "tweet_id": 119255,
+          "author_id": "105840",
+          "inbound": true,
+          "created_at": "Wed Oct 11 13:45:59 +0000 2017",
+          "text": "@SpotifyCares Thanks! Version 8.4.22.857 armv7 on anker bluetooth speaker on Samsung Galaxy Tab A (2016) Model SM-T280 Does distance from speaker matter?",
+          "in_response_to_tweet_id": "119254",
+          "response_tweet_id": "119257"
+        },
+        {
+          "tweet_id": 119257,
+          "author_id": "SpotifyCares",
+          "inbound": false,
+          "created_at": "Wed Oct 11 14:00:48 +0000 2017",
+          "text": "@105840 Thanks. The distance could possibly affect playback. Does logging out &gt; restarting your device &gt; logging back in make a difference? /AY",
+          "in_response_to_tweet_id": "119255",
+          "response_tweet_id": "119258"
+        },
+        {
+          "tweet_id": 119258,
+          "author_id": "105840",
+          "inbound": true,
+          "created_at": "Wed Oct 11 14:01:58 +0000 2017",
+          "text": "@SpotifyCares No, but I've moved speaker to about 1 metre away and it's not skipping at the mo - it was about 3 or 4 metres away before. Fingers crossed!",
+          "in_response_to_tweet_id": "119257",
+          "response_tweet_id": "119259"
+        },
+        {
+          "tweet_id": 119259,
+          "author_id": "SpotifyCares",
+          "inbound": false,
+          "created_at": "Wed Oct 11 14:20:00 +0000 2017",
+          "text": "@105840 That's great to hear. If anything comes up, just let us know. We'll carry on helping out \ud83d\ude42 /AY",
+          "in_response_to_tweet_id": "119258",
+          "response_tweet_id": "119260"
+        },
+        {
+          "tweet_id": 119260,
+          "author_id": "105840",
+          "inbound": true,
+          "created_at": "Wed Oct 11 14:22:05 +0000 2017",
+          "text": "@SpotifyCares Brilliant thanks \ud83d\ude0a",
+          "in_response_to_tweet_id": "119259",
+          "response_tweet_id": "119261"
+        },
+        {
+          "tweet_id": 119261,
+          "author_id": "SpotifyCares",
+          "inbound": false,
+          "created_at": "Wed Oct 11 14:41:35 +0000 2017",
+          "text": "@105840 You're welcome! If there's anything else we can help with, just give us a shout. We're here for you \ud83d\ude09 /CP",
+          "in_response_to_tweet_id": "119260",
+          "response_tweet_id": ""
+        }
+      ]
+    }
+  ],
+  "VirginTrains": [
+    {
+      "root_tweet_id": 119246,
+      "turn_count": 7,
+      "tweets": [
+        {
+          "tweet_id": 119246,
+          "author_id": "VirginTrains",
+          "inbound": false,
+          "created_at": "Tue Oct 10 10:13:19 +0000 2017",
+          "text": "@105836 That's what we're here for Miriam \ud83d\ude0a  The team should send you an email shortly ^HP",
+          "in_response_to_tweet_id": "119247",
+          "response_tweet_id": "119242"
+        },
+        {
+          "tweet_id": 119242,
+          "author_id": "105836",
+          "inbound": true,
+          "created_at": "Tue Oct 10 15:09:00 +0000 2017",
+          "text": "@VirginTrains I still haven't heard &amp; the number I'm directed to by phone is a dead end &amp; the live chat doesn't work. Can someone call me?",
+          "in_response_to_tweet_id": "119246",
+          "response_tweet_id": "119240"
+        },
+        {
+          "tweet_id": 119240,
+          "author_id": "VirginTrains",
+          "inbound": false,
+          "created_at": "Tue Oct 10 15:16:08 +0000 2017",
+          "text": "@105836 LiveChat is online at the moment - https://t.co/SY94VtU8Kq or contact 03331 031 031 option 1, 4, 3 (Leave a message) to request a call back",
+          "in_response_to_tweet_id": "119242",
+          "response_tweet_id": "119241"
+        },
+        {
+          "tweet_id": 119241,
+          "author_id": "105836",
+          "inbound": true,
+          "created_at": "Tue Oct 10 15:17:21 +0000 2017",
+          "text": "@VirginTrains see attached error message. I've tried leaving a voicemail several times in the past week https://t.co/NxVZjlYx1k",
+          "in_response_to_tweet_id": "119240",
+          "response_tweet_id": "119243"
+        },
+        {
+          "tweet_id": 119243,
+          "author_id": "VirginTrains",
+          "inbound": false,
+          "created_at": "Tue Oct 10 15:25:14 +0000 2017",
+          "text": "@105836 Have you tried from another device, Miriam ^MM",
+          "in_response_to_tweet_id": "119241",
+          "response_tweet_id": "119244"
+        },
+        {
+          "tweet_id": 119244,
+          "author_id": "105836",
+          "inbound": true,
+          "created_at": "Tue Oct 10 15:26:44 +0000 2017",
+          "text": "@VirginTrains yep, I've tried laptop too several times over the past week and again today. I've tried different browsers too",
+          "in_response_to_tweet_id": "119243",
+          "response_tweet_id": "119245"
+        },
+        {
+          "tweet_id": 119245,
+          "author_id": "VirginTrains",
+          "inbound": false,
+          "created_at": "Tue Oct 10 15:33:22 +0000 2017",
+          "text": "@105836 It's working OK from here, Miriam. Does this link help https://t.co/0m2mpH15eh ? ^MM",
+          "in_response_to_tweet_id": "119244",
+          "response_tweet_id": ""
+        }
+      ]
+    }
+  ],
+  "AppleSupport": [
+    {
+      "root_tweet_id": 119299,
+      "turn_count": 2,
+      "tweets": [
+        {
+          "tweet_id": 119299,
+          "author_id": "105851",
+          "inbound": true,
+          "created_at": "Wed Oct 11 07:16:18 +0000 2017",
+          "text": "@AppleSupport I need a new code for my I-store. I haven\u2019t recd any but msg is too many sent. Help!",
+          "in_response_to_tweet_id": "",
+          "response_tweet_id": "119298"
+        },
+        {
+          "tweet_id": 119298,
+          "author_id": "AppleSupport",
+          "inbound": false,
+          "created_at": "Wed Oct 11 13:34:00 +0000 2017",
+          "text": "@105851 We'd like to provide some assistance with this. Tell us more about the issue you're experiencing in DM. We'll go from there. https://t.co/GDrqU22YpT",
+          "in_response_to_tweet_id": "119299",
+          "response_tweet_id": ""
+        }
+      ]
+    },
+    {
+      "root_tweet_id": 119326,
+      "turn_count": 4,
+      "tweets": [
+        {
+          "tweet_id": 119326,
+          "author_id": "105857",
+          "inbound": true,
+          "created_at": "Tue Oct 10 23:09:08 +0000 2017",
+          "text": "My apps stop working without warning and my phone freezes every five minutes! Love the new update @76099!!!!",
+          "in_response_to_tweet_id": "",
+          "response_tweet_id": "119325"
+        },
+        {
+          "tweet_id": 119325,
+          "author_id": "AppleSupport",
+          "inbound": false,
+          "created_at": "Wed Oct 11 00:19:34 +0000 2017",
+          "text": "@105857 We'd like to help if we can. When did this start happening? Which version of iOS are you running currently?",
+          "in_response_to_tweet_id": "119326",
+          "response_tweet_id": "119324"
+        },
+        {
+          "tweet_id": 119324,
+          "author_id": "105857",
+          "inbound": true,
+          "created_at": "Wed Oct 11 08:52:14 +0000 2017",
+          "text": "@AppleSupport I have the latest version iOS. It started immediately after I updated my phone.",
+          "in_response_to_tweet_id": "119325",
+          "response_tweet_id": "119323"
+        },
+        {
+          "tweet_id": 119323,
+          "author_id": "AppleSupport",
+          "inbound": false,
+          "created_at": "Wed Oct 11 13:55:31 +0000 2017",
+          "text": "@105857 Is there a particular app that seems to cause these issues more than others? What model iPhone are you using? Join us in DM. https://t.co/GDrqU22YpT",
+          "in_response_to_tweet_id": "119324",
+          "response_tweet_id": ""
+        }
+      ]
+    }
+  ],
+  "Tesco": [
+    {
+      "root_tweet_id": 119332,
+      "turn_count": 3,
+      "tweets": [
+        {
+          "tweet_id": 119332,
+          "author_id": "Tesco",
+          "inbound": false,
+          "created_at": "Wed Oct 11 13:34:06 +0000 2017",
+          "text": "@105861 Hey Sara, sorry to hear of the issues you are having, can I ask if it's the lay out or just the speed of the website responding? TY - Chris",
+          "in_response_to_tweet_id": "119334",
+          "response_tweet_id": "119333"
+        },
+        {
+          "tweet_id": 119333,
+          "author_id": "105861",
+          "inbound": true,
+          "created_at": "Wed Oct 11 14:05:18 +0000 2017",
+          "text": "@Tesco bit of both - finding the layout cumbersome and when removing an item from faves - getting a huge slowdown. Not keen on the thin green line https://t.co/9281OKEebk",
+          "in_response_to_tweet_id": "119332",
+          "response_tweet_id": "119335,119336"
+        },
+        {
+          "tweet_id": 119335,
+          "author_id": "Tesco",
+          "inbound": false,
+          "created_at": "Wed Oct 11 15:38:07 +0000 2017",
+          "text": "@105861 If that doesn't help please DM your full name, address and email including the browser and device so we can log this. Thanks - Lee 2/2",
+          "in_response_to_tweet_id": "119333",
+          "response_tweet_id": ""
+        }
+      ]
+    },
+    {
+      "root_tweet_id": 119315,
+      "turn_count": 7,
+      "tweets": [
+        {
+          "tweet_id": 119315,
+          "author_id": "105855",
+          "inbound": true,
+          "created_at": "Wed Oct 11 12:14:41 +0000 2017",
+          "text": "Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos.",
+          "in_response_to_tweet_id": "",
+          "response_tweet_id": "119316,119314"
+        },
+        {
+          "tweet_id": 119314,
+          "author_id": "Tesco",
+          "inbound": false,
+          "created_at": "Wed Oct 11 12:17:02 +0000 2017",
+          "text": "@105855 Hi Thomas, we operate a Think 25 policy at our stores. I'd be flattered to be ID'd. :-) - Helena",
+          "in_response_to_tweet_id": "119315",
+          "response_tweet_id": "119313"
+        },
+        {
+          "tweet_id": 119313,
+          "author_id": "105855",
+          "inbound": true,
+          "created_at": "Wed Oct 11 12:29:52 +0000 2017",
+          "text": "@Tesco Uk offlicense law is 18. Not 25",
+          "in_response_to_tweet_id": "119314",
+          "response_tweet_id": "119311"
+        },
+        {
+          "tweet_id": 119311,
+          "author_id": "Tesco",
+          "inbound": false,
+          "created_at": "Wed Oct 11 13:28:34 +0000 2017",
+          "text": "@105855 Hi Thomas, this is correct but this helps our store colleagues judge age and protect them from making underage sales. Amanda",
+          "in_response_to_tweet_id": "119313",
+          "response_tweet_id": "119310,119312"
+        },
+        {
+          "tweet_id": 119310,
+          "author_id": "105855",
+          "inbound": true,
+          "created_at": "Wed Oct 11 13:31:06 +0000 2017",
+          "text": "@Tesco The point is if it's enforced they do it properly or they don't. Plus take some common-sense and think does that person look over 18?",
+          "in_response_to_tweet_id": "119311",
+          "response_tweet_id": "119308"
+        },
+        {
+          "tweet_id": 119308,
+          "author_id": "Tesco",
+          "inbound": false,
+          "created_at": "Wed Oct 11 13:33:07 +0000 2017",
+          "text": "@105855 Hi Thomas, if a colleague believes the person buying alcohol looks under 25, they will be challenged for ID to prove they're of age. - Paige",
+          "in_response_to_tweet_id": "119310",
+          "response_tweet_id": "119309"
+        },
+        {
+          "tweet_id": 119309,
+          "author_id": "105855",
+          "inbound": true,
+          "created_at": "Wed Oct 11 13:33:43 +0000 2017",
+          "text": "@Tesco Maybe hire colleagues who can see?",
+          "in_response_to_tweet_id": "119308",
+          "response_tweet_id": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "multi_intent_examples": [
+    {
+      "customer_tweet_id": 850,
+      "customer_message": "@SpotifyCares Premium &amp; when i\ufe0f have it on shuffle it turns off when the song is done and just plays in order and the repeat lights up but doesn\u2019t repeat",
+      "overlapping_intents": [
+        "subscription_and_billing",
+        "playlist_library_and_curation",
+        "music_catalog_and_content"
+      ],
+      "spotify_response": "@115887 Hmm. Can you try restarting your device by holding the Sleep/Wake + Volume Down buttons for 10 seconds? Keep us posted /LS"
+    },
+    {
+      "customer_tweet_id": 2869,
+      "customer_message": "@SpotifyCares why is this album on Spotify if it's not playable? It would be super if was available, THIS IS #2NE1 playlist would be complete if it had all the songs from their first mini album https://t.co/NdN2Hbtdfl",
+      "overlapping_intents": [
+        "playlist_library_and_curation",
+        "music_catalog_and_content"
+      ],
+      "spotify_response": "@116384 Hey there! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have them available again soon /MT"
+    },
+    {
+      "customer_tweet_id": 2944,
+      "customer_message": "Dear @115888 how do i get my discovery playlist to stop suggesting Dutch music to me, it's been a year",
+      "overlapping_intents": [
+        "playback_and_audio",
+        "playlist_library_and_curation"
+      ],
+      "spotify_response": "@116391 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 2952,
+      "customer_message": "@SpotifyCares What keywords besides \"playlist\", \"playlists\", + \"song\" would I use?",
+      "overlapping_intents": [
+        "playlist_library_and_curation",
+        "music_catalog_and_content"
+      ],
+      "spotify_response": "@116393 We suggest using keywords similar to those used in the suggested idea. If you need anything else, give us a shout /RB"
+    },
+    {
+      "customer_tweet_id": 4997,
+      "customer_message": "@SpotifyCares what happened to the iOS tap and hold to preview a song feature? I loved it for queuing songs to a playlist.",
+      "overlapping_intents": [
+        "playlist_library_and_curation",
+        "music_catalog_and_content"
+      ],
+      "spotify_response": "@116885 Hey! We have more info about this here: https://t.co/pXBCq8GlsI. Give us a shout if you have any questions /RH"
+    },
+    {
+      "customer_tweet_id": 5020,
+      "customer_message": "@SpotifyCares BTW I have a confirmation email to say my email address was updated, then got an email to say my subscription had been cancelled?",
+      "overlapping_intents": [
+        "subscription_and_billing",
+        "account_access_and_login"
+      ],
+      "spotify_response": "@116889 Hey Lauren! Can you DM us your account's email address or username? We'll take a look /NS https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 6485,
+      "customer_message": "@117153 @SpotifyCares Im paying for premium but every time i log in it keeps saying free service",
+      "overlapping_intents": [
+        "subscription_and_billing",
+        "account_access_and_login"
+      ],
+      "spotify_response": "@117152 Hey there! Could you send us a DM with your account's email address or username? We'll take a look backstage /FR https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 6617,
+      "customer_message": "@SpotifyCares No it didn't crash. I was cooking dinner and heard about 3 songs. Each song is about 2-3 mins. After the third song the ad played.",
+      "overlapping_intents": [
+        "app_crash_and_performance",
+        "music_catalog_and_content"
+      ],
+      "spotify_response": "@117167 Thanks for confirming! Just to check, did you definitely watch the video ad in full after hearing the offer? /RA"
+    },
+    {
+      "customer_tweet_id": 8425,
+      "customer_message": "Will changing my password stop this person from using my @SpotifyCares? https://t.co/VHJyWGO25j",
+      "overlapping_intents": [
+        "account_access_and_login",
+        "playback_and_audio"
+      ],
+      "spotify_response": "@117482 Hey Richard! We\u2019re sorry to hear that. Check out https://t.co/QHn3ok8y2n for what to do next /CH"
+    },
+    {
+      "customer_tweet_id": 8697,
+      "customer_message": "@SpotifyCares Checked the three dots and saw the download option and then my song appeared. It works.. but it feels hidden. Thank you for your interest :)",
+      "overlapping_intents": [
+        "offline_listening_and_downloads",
+        "music_catalog_and_content"
+      ],
+      "spotify_response": "@117528 You're welcome! We can see how that\u2019d be handy. Thanks for taking the time to reach out \u2013 your feedback's been noted \ud83d\udcdd /KC"
+    }
+  ],
+  "vague_examples": [
+    {
+      "customer_tweet_id": 849,
+      "customer_message": "@SpotifyCares doesn\u2019t work and i even tried deleting the app",
+      "reason": "Lacks diagnostic details; requires clarification before troubleshooting",
+      "spotify_response": "@115887 Could you send us a DM with your account's email address? We'll take a look backstage /CH https://t.co/ldFdZRiNAt"
+    },
+    {
+      "customer_tweet_id": 853,
+      "customer_message": "@SpotifyCares iphone 7+ and i have the most recent update for spotify",
+      "reason": "Lacks diagnostic details; requires clarification before troubleshooting",
+      "spotify_response": "@115887 Thanks. Just to be sure, are you Free or Premium? Also, can you give us more info on what happens when you try using it? /CB"
+    },
+    {
+      "customer_tweet_id": 858,
+      "customer_message": "@SpotifyCares 2/2... and there is no way to manage Albums (recently added e.g.) in the App. It's a mess \ud83d\ude32 https://t.co/RlWuqllt8S",
+      "reason": "Lacks diagnostic details; requires clarification before troubleshooting",
+      "spotify_response": "@115889 Got it. It's not possible at the moment, but we'll pass on the the suggestion. Could you try reinstalling the app? /PB"
+    },
+    {
+      "customer_tweet_id": 862,
+      "customer_message": "@SpotifyCares @115890 Groove Music quits &amp; redirect to Spotify. But the W10M App is a bugfest.. Any further Updates possible?",
+      "reason": "Lacks diagnostic details; requires clarification before troubleshooting",
+      "spotify_response": "@115889 Hey there! That doesn't sound good. What's happening exactly? Can you let us know the app version you're using? /PB"
+    },
+    {
+      "customer_tweet_id": 864,
+      "customer_message": "@SpotifyCares ok thx",
+      "reason": "Lacks diagnostic details; requires clarification before troubleshooting",
+      "spotify_response": "@115891 No worries. If you have other questions, just give us a shout \ud83d\ude09 /GS"
+    },
+    {
+      "customer_tweet_id": 1869,
+      "customer_message": "@SpotifyCares using a MacBook Pro with OS X El Capitan and the latest Spotify update, and an iPhone 6S with the latest software/Spotify updates!",
+      "reason": "Lacks diagnostic details; requires clarification before troubleshooting",
+      "spotify_response": "@116128 Got it! Could you try streaming one of our 15 Stranger Things playlists, then switch to the Now Playing screen? /KB"
+    },
+    {
+      "customer_tweet_id": 1870,
+      "customer_message": "@SpotifyCares Desktop app still not working, but I got to see the cool thing (Easter egg) so I\u2019m ecstatic! \ud83d\ude0a\ud83d\ude0a",
+      "reason": "Lacks diagnostic details; requires clarification before troubleshooting",
+      "spotify_response": "@116128 Hmm, let's see. Could you confirm the exact Spotify version of your desktop app? /KB"
+    },
+    {
+      "customer_tweet_id": 1872,
+      "customer_message": "@SpotifyCares 1.0.65.320.gac7a8e02",
+      "reason": "Lacks diagnostic details; requires clarification before troubleshooting",
+      "spotify_response": "@116128 Thanks! It's not ideal, but a clean reinstall of the app should help out: https://t.co/EqisDMwZAT. Let us know how it plays out /KB"
+    },
+    {
+      "customer_tweet_id": 1875,
+      "customer_message": "Why are my devices not doing the cool thing when I play the #StrangerThings albums on @115888? \ud83d\ude2d",
+      "reason": "Lacks diagnostic details; requires clarification before troubleshooting",
+      "spotify_response": "@116128 Hey Jacklynn! The cavalry's here. Could you tell us the device/OS you're using? We'll see what we can suggest /KB"
+    },
+    {
+      "customer_tweet_id": 1878,
+      "customer_message": "@116130 why are Nena's releases between 2002 and 2012 all missing, yet everything else from 1982 - 2017 is there? #sadness #emptyplaylist",
+      "reason": "Lacks diagnostic details; requires clarification before troubleshooting",
+      "spotify_response": "@116129 Hi Liam! Could you let us know the tracks/albums you're looking for? We'll take a look /RH"
+    }
+  ],
+  "unclassifiable_examples": [
+    {
+      "customer_tweet_id": 11712,
+      "customer_message": "@118266 halo skrg kok udh gak ada pilihan bayar pakai pulsa ya untuk berlangganannya?",
+      "reason": "Foreign language or media-only reference",
+      "spotify_response": "@118265 Hey! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /JS"
+    },
+    {
+      "customer_tweet_id": 19242,
+      "customer_message": "Ini kenapa setiap buka app mesti log-in lagi? @118266",
+      "reason": "Foreign language or media-only reference",
+      "spotify_response": "@120273 Hey! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /NQ"
+    },
+    {
+      "customer_tweet_id": 20794,
+      "customer_message": "@118266 2 hari yang lalu saya mendapat email tsb padahal data alamat tinggal tidak ada yang diubah mohon bantuannya https://t.co/VbB95ZFGDB",
+      "reason": "Foreign language or media-only reference",
+      "spotify_response": "@120555 Hey there! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/XGIC7aZtMa /MA"
+    },
+    {
+      "customer_tweet_id": 27001,
+      "customer_message": "@121907 @SpotifyCares \u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e04\u0e48\u0e30 ^^",
+      "reason": "Foreign language or media-only reference",
+      "spotify_response": "@121906 Hey there! We can help out in English via Twitter, but we also have Thai support via email at https://t.co/ZgU70TbP8M /MA"
+    },
+    {
+      "customer_tweet_id": 34756,
+      "customer_message": "@118266 min, cara berhenti berlangganan spotify premium tapi lupa password email bagaimana ya \ud83d\ude25",
+      "reason": "Foreign language or media-only reference",
+      "spotify_response": "@123541 Hey Val! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /AY"
+    },
+    {
+      "customer_tweet_id": 37699,
+      "customer_message": "@118266 sekarang ga bisa pembayaran premium dengan pulsa tri?",
+      "reason": "Foreign language or media-only reference",
+      "spotify_response": "@124187 Hey! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /AY"
+    },
+    {
+      "customer_tweet_id": 39774,
+      "customer_message": "@118266 @118266 min udah masukin, username dan password bener, akhirnya minta reset password tapi aku lupa emailku yg aku pke, bisa bantu?",
+      "reason": "Foreign language or media-only reference",
+      "spotify_response": "@124711 Hey Lina! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /GU"
+    },
+    {
+      "customer_tweet_id": 44402,
+      "customer_message": "Hai @118266, kok gagal terus yaa? Dibilangnya pulsa tidak mencukupi, padahal pulsa lebih dari cukup https://t.co/PnP3gHQRCJ",
+      "reason": "Foreign language or media-only reference",
+      "spotify_response": "@125852 Hey! We can help out in English via Twitter, but we also have Bahasa support via email at https://t.co/ZgU70TbP8M /AD"
+    },
+    {
+      "customer_tweet_id": 44426,
+      "customer_message": "@118266 haiii Spotify.. please help. Akun saya tidak bisa diakses, padahal akun tsb sudah saya daftarkan ke premium. Saya sudah masukkan username dan password yg benar tapi ditolak, saat akan reset password, email saya terdaftar di username lain. Gmn ya? #sedih",
+      "reason": "Foreign language or media-only reference",
+      "spotify_response": "@125858 Hey! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /NQ"
+    },
+    {
+      "customer_tweet_id": 66029,
+      "customer_message": "@118266 saya mendapat promo 3 bulan cuma Rp 4990 itu benar ga? Trs kl udh 3 bulan selesai bayarnya kembali ke awal?",
+      "reason": "Foreign language or media-only reference",
+      "spotify_response": "@131106 Hey there! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /GK"
+    }
+  ]
+}
